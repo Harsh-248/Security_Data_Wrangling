@@ -32,18 +32,15 @@ pip install pandas numpy matplotlib seaborn scipy missingno
 
 ## Usage
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/yourusername/security-data-wrangling.git
 cd security-data-wrangling
 
-Run the Python script:
+### Run the Python script:
 
 python security_data_wrangling.py
 
-Or open the Jupyter Notebook for interactive analysis:
-
-jupyter notebook Security_Data_Wrangling.ipynb
 
 ## Files
 
